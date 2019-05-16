@@ -1,0 +1,33 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.chat {
+  border-left: 4px solid rgb(230, 230, 230);
+  width: 700px;
+  margin: 16px 0px;
+  padding: 8px;
+}
+
+form input {
+  height: 32px;
+  width: 300px;
+  outline: 0;
+}
+
+.input-form {
+  border-radius: 4px 0px 0px 4px;
+  border: 1px solid rgb(230, 230, 230);
+}
+
+.btn-blue {
+  width: 64px;
+  border-radius: 0px 4px 4px 0px;
+  color: white;
+  font-weight: bold;
+  background-color: #327AB7;
+}
+
+#coach {
+  background-color: #FFFFE1;
+}
